@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hello There 👋
+I'm Kaveman, I am a fullstack C#/.NET Develper and I enjoy writing useful software.
+
+#### Skills
+ - **Front-End** - HTML, CSS, Bootstrap, Vanilla JS and React
+ - **Back-End** - C# and nodeJS
+ - **Databases** - SQLite, MS-SQL and MySQL paired with ADO.NET and Entity Framework 
+ - **Tools** - Git, Unity3D, Azure DevOps and VS (including VSCode)
+
+<!-- Need to push projects and relevent content first
+### Recent Projects
+#### TheatreCMS3
+
+#### Tanki X ([Website](https://txrevive.net))
+-->
+
+#### Contact
+ - Website: [kavemans.dev/contact](https://kavemans.dev/contact)
+ - Discord: [@kavemans.dev](https://discordapp.com/users/596233653332344842)
 
 <!--
 **Kaveinator/Kaveinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
